@@ -8,6 +8,9 @@
 * [WebUserControl.ascx.cs](./CS/WebUserControl.ascx.cs) (VB: [WebUserControl.ascx.vb](./VB/WebUserControl.ascx.vb))
 <!-- default file list end -->
 # How to get a list of DevExpress themes and apply them to an application
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t504805/)**
+<!-- run online end -->
 
 
 <p>In the sample, a web UserControl is created, which allows you to do the following:<br> </p>
